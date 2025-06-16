@@ -16,29 +16,19 @@
 
 </div>
 
----
 
 Este repositorio es un **fork personalizado del proyecto [porfolio.dev](https://github.com/midudev/porfolio.dev)** creado por [@midudev](https://github.com/midudev).
 
-He adaptado el contenido, la presentación y los enlaces para construir y desplegar **mi portafolio personal como desarrollador**.
+He adaptado el contenido, la presentación y los enlaces para construir y desplegar **mi portafolio personal como Tecnico en Infraestructura de Redes**.
 
 ## 🚀 Tecnologías
 
 - [Astro](https://astro.build/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- Deploy: [Vercel](https://vercel.com)
+- [Vercel](https://vercel.com)
 
-## ✨ Versión en vivo
 
-🔗 [Mi portafolio online](https://tuusuario.vercel.app)
-
-## 👨‍💼 Autor
 
 **Francisco Valente**  
-📧 francisco.vln@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/franciscovln/)
 
----
-
-> Créditos al proyecto original por el diseño, estructura y base tecnológica.
-
+Créditos al proyecto original por el diseño, estructura y base tecnológica.
