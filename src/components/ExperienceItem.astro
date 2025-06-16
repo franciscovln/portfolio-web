@@ -5,6 +5,7 @@ interface Props {
   title: string
   company: string
   description: string
+  description2?: string
   link?: string
   date: string
 }
@@ -27,7 +28,7 @@ const { title, company, description, link, date } = Astro.props
     </div>
   </div>
   <div class="relative flex flex-col gap-2 pb-4 text-gray-600 dark:text-gray-300 md:col-span-3">
-    {description}
+    <p style="white-space: pre-line;">{description}</p>
     {
       link && (
         <LinkInline href={link}>
